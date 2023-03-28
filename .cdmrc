@@ -1,0 +1,2 @@
+tabs: ["src/pages/index.astro", "src/layouts/Layout.astro"]
+terminals: ["yarn install && yarn dev"]

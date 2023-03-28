@@ -1,0 +1,16 @@
+{
+	"name": "astro-playground",
+	"license": "",
+	"type": "module",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "astro dev --host=0.0.0.0 --port 1337",
+		"start": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"astro": "astro"
+	},
+	"dependencies": {
+		"astro": "^2.1.7"
+	}
+}
